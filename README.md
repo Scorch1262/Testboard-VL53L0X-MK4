@@ -5,3 +5,4 @@
 - MCC UART Funktion
 - MCC I2C Library
 - Ausgabedes Entdernung über UART
+- ca.4cm bis ca.120cm
